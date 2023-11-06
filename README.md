@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://ethandeakin.github.io/portfolio/](https://ethandeakin.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://ethandeakin.github.io/portfolio/](https://ethandeakin.github.io/Portfolio/)
 
 - 📫 How to reach me **ethan.p.deakin@gmail.com**
 
